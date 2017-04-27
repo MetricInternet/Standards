@@ -2,8 +2,6 @@
 
 The following template should be used when creating issues in a repository.
 
-
-
 #### Template
 
 > **User Story:**
@@ -22,12 +20,12 @@ The following template should be used when creating issues in a repository.
 >
 > _link..._
 
-
-
 1. **User Story:** is there to drive team discussions about what is a valuable outcome for the user. They're not just another format for a specification; specifications are about output and that's why 'specification-driven' products miss the mark so often with the user.
 2. **Current Behaviour:**
 3. **Expected Behaviour:**
 4. **Video/Screenshot Link:**
+
+### Issue Templates
 
 
 

@@ -2,4 +2,7 @@
 
 * [Introduction](README.md)
 * [Creating Issues](creating-issues.md)
+  * Issue Template
+
+
 
