@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Creating Issues](creating-issues.md)
   * [Issue Template](creating-issues/issue-template.md)
-  * [Default Template](creating-issues/default-template.md)
 * [Creating a Branch](creating-a-branch.md)
   * [Branch naming](creating-a-branch/branch-naming.md)
 * [Making Commits](making-commits.md)
@@ -11,4 +10,6 @@
 * [Making Pull Requests](making-pull-requests.md)
   * [Pull Request Template](making-pull-requests/pull-request-template.md)
   * [Default Template](making-pull-requests/default-template.md)
+
+
 
