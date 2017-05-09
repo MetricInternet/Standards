@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Creating Issues](creating-issues.md)
   * [Issue Template](creating-issues/issue-template.md)
+  * Closing Issues
 * [Creating a Branch](creating-a-branch.md)
   * [Branch naming](creating-a-branch/branch-naming.md)
 * [Making Commits](making-commits.md)
