@@ -12,7 +12,7 @@
 >
 > * _description..._
 >
-> **Video/Screenshot Link \(optional\):**
+> **Video/Screenshot/Link \(optional\):**
 >
 > _link..._
 
