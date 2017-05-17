@@ -10,6 +10,9 @@
   * [Commit Message Template](making-commits/commit-message-template.md)
 * [Making Pull Requests](making-pull-requests.md)
   * [Pull Request Template](making-pull-requests/pull-request-template.md)
+  * Merging Pull Requests
 * [Testing](testing.md)
   * [Test Levels](test-levels.md)
+
+
 
