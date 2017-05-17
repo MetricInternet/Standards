@@ -11,6 +11,6 @@
 * [Making Pull Requests](making-pull-requests.md)
   * [Pull Request Template](making-pull-requests/pull-request-template.md)
   * [Default Template](making-pull-requests/default-template.md)
-* Testing
+* [Testing](testing.md)
   * [Test Levels](test-levels.md)
 
