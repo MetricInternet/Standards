@@ -4,15 +4,15 @@
 
 ### Developer Tests:
 
-#### Component Testing
+#### Unit Testing
 
-\(_Unit/Small tests\)_
+\(_Component/Small tests\)_
 
 Testing Modules, components and classes in isolation with Test Coverage as close to 100% as possible.
 
-#### Integration Testing
+#### Functional Testing
 
-_\(Functional/Medium tests\)_
+_\(Integration/Medium tests\)_
 
 Testing that the submodules of the application integrate and communicate with each other in the way described by use-cases and system design.
 

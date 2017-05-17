@@ -2,6 +2,8 @@
 
 #### Reviewers Check list:
 
+> * \[ \] Requirements - OK
+>
 > * \[ \] Design Structure and Scalability - OK
 >
 > * \[ \] Efficiency - OK
@@ -16,13 +18,15 @@
 >
 > * \[ \] Wrong Use Tests - OK
 >
-> * \[ \] Tests - pass
+> * \[ \] Unit tests - pass
+>
+> * \[ \] Functional tests - OK - pass
 >
 > * \[ \] End-to-End tests - pass
 >
 > * \[ \] Linting - No errors
->
-> *
+
+
 
 1. **Design Structure and Scalability:**
 2. **Efficiency:**
