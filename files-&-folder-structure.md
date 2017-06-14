@@ -18,5 +18,5 @@
 
 #### config:
 
-`config`_  _stands for _configuration,_ and should be where you place **everything that is likely to vary between deploys** \(staging, production, developer environments, etc\)
+`config` stands for _configuration,_ and should be where you place **everything that is likely to vary between deploys** \(staging, production, developer environments, etc\)
 
