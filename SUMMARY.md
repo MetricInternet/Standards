@@ -13,5 +13,5 @@
   * [Merging Pull Requests](making-pull-requests/merging-pull-requests.md)
 * [Testing](testing.md)
   * [Test Levels](test-levels.md)
-* [App Folder Structure](app-folder-structure.md)
+* [Files & Folder Structure](app-folder-structure.md)
 

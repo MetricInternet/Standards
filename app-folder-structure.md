@@ -1,4 +1,8 @@
-## Root Folders
+## File & Folder Naming
+
+---
+
+### Root Folders
 
 #### src:
 
@@ -6,5 +10,13 @@
 
 #### dist:
 
-`dist/`stands for _distribution_, and should be where you place the **minified/concatenated **version - actually used on production.
+`dist/`stands for _distribution_, and should be where you place the **minified/concatenated version** - actually used on production.
+
+---
+
+### Files & Folders
+
+#### config:
+
+`config`_  _stands for _configuration,_ and should be where you place **everything that is likely to vary between deploys** \(staging, production, developer environments, etc\)
 
